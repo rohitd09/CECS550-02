@@ -1,2 +1,4 @@
-# CECS550-02
-This is a repository where I'll upload mini projects of class CECS550 - CSU LB
+## Course: Pattern Recognition 
+## Class: CECS 550, Section 2
+## Student:  Rohit Das
+## Semester: Fall 2023
